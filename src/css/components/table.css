@@ -1,0 +1,14 @@
+.table tbody tr,
+td {
+    height: 42px;
+    text-align: left;
+    padding: 10px 10px 10px 0px;
+}
+
+tbody tr {
+    vertical-align: middle;
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-bottom: 1px solid #e9ebee;
+    border-top: 1px solid #e9ebee;
+}

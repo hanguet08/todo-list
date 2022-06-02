@@ -1,0 +1,63 @@
+    /* button default */
+    
+    .m-btn {
+        height: 40px;
+        min-width: 100px;
+        background-color: #019160;
+        border-radius: 4px;
+        padding: 0 24px;
+        text-align: center;
+        border: none;
+        font-size: 13px;
+        color: #ffffff;
+        font-family: GoogleSans-Regular;
+        outline: none;
+        cursor: pointer;
+    }
+    
+    .m-btn:active {
+        background-color: #01B075;
+    }
+    
+    .m-btn-refresh {
+        height: 40px;
+        width: 40px;
+        background-color: white;
+    }
+    
+    #btnAdd {
+        margin-top: 20px;
+    }
+    
+    .add-button {
+        padding: 0 190px;
+    }
+    
+    .add-button:hover {
+        background-color: hsl(160, 99%, 35%);
+    }
+    
+    .edit-button {
+        padding: 0 182px;
+    }
+    
+    .edit-button:hover {
+        background-color: hsl(160, 99%, 35%);
+    }
+    
+    .detail-button {
+        background-color: rgb(28, 173, 240);
+    }
+    
+    .detail-button:hover {
+        background-color: rgb(0, 217, 255);
+        transition: all 0.3s ease;
+    }
+    
+    .delete-button {
+        background-color: rgb(255, 0, 0);
+    }
+    
+    .delete-button:hover {
+        background-color: rgb(234, 110, 135);
+    }
